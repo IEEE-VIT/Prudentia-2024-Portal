@@ -1,4 +1,5 @@
 # Prudentia 2024 Portal
+![Alt text](prudentialportal.png)
 ## About
 Prudentia 2024 Portal is IEEE-VIT's portal for its hackathon Prudentia. The portal contains interactive 3D graphics, details related to the hackathon as well as a portal for participants to submit their work at the end of every round.
 
